@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ariyanmoradi
-- 👀 I’m interested in Python, Linux, Nix
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Python, Linux, cybersecurity
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ... empty
 - 📫 How to reach me ... empty
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a noob coder/programmer
+- ⚡ Fun fact: ... I'm a beginner coder/programmer
